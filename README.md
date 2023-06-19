@@ -23,6 +23,9 @@ npx next -h
 ```
 npm install react next react-router
 ```
+### create a .env file with 
+![image](https://github.com/devopstrainingschool/project_nodejs_car_showcase/assets/107158398/261d2350-be82-4d27-94b8-4b4d19f64863)
+
 ### Add into utils/index.ts
 ![image](https://github.com/devopstrainingschool/project_nodejs_car_showcase/assets/107158398/97ce2174-b583-4dc3-a407-5f40ef0a795c)
 
