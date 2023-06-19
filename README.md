@@ -16,3 +16,7 @@ Alongside building this application, you'll also learn how to:
 ## Want to land your dream programming job in 3 - 6 months?
 ⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
 Become a Software Engineer. Guaranteed.
+# Install Next
+```
+npx next -h
+```
