@@ -20,3 +20,6 @@ Become a Software Engineer. Guaranteed.
 ```
 npx next -h
 ```
+```
+npm install react next react-router
+```
